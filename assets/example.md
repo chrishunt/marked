@@ -33,4 +33,10 @@ There are over 43 quintillion legal positions of the Rubik's Cube.
 - If we stacked 43 quintillion pennies, the stack would be tall enough to reach
   the sun and return to the earth **four thousand billion times**.
 
+And here's how to cook a turkey.
+
+1. Preheat over to 400 degrees
+2. Place turkey in over
+3. Cook for 45 minutes
+
 [flipped]: http://www.youtube.com/watch?v=CuVB8YpQlYQ
