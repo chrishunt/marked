@@ -1,7 +1,6 @@
 # Marked Themes
 
-A collection of themes compatible with [Marked 2][marked], the best live
-markdown previewer on Mac OS.
+Themes for [Marked][marked], the best live markdown previewer on Mac OS.
 
 ## [Svbtle](svbtle)
 
