@@ -31,7 +31,7 @@ p {
   margin-bottom: 25px;
 }
 
-h1, h2, blockquote, ul {
+h1, h2, blockquote, ul, ol {
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -88,10 +88,13 @@ hr {
   width: 430px;
 }
 
+ol, ul {
+  padding-left: 60px;
+}
+
 li {
   color: rgb(77, 77, 77);
   font-size: 16px;
-  height: 50px;
   line-height: 25px;
   margin-bottom: 5px;
   margin-top: 5px;
