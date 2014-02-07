@@ -99,10 +99,17 @@ li {
 }
 
 code {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  border: 1px solid #d2d2d2;
+  border-radius: 15px;
+  background-color: #f8f8f8;
+  padding: 0px 5px;
   font-size: 13px;
   line-height: 16px;
+}
+
+pre code {
+  padding: 10px 0px;
+  border: 0px;
 }
 
 img {
