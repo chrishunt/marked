@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:300|Roboto+Slab:300);
+
+body {
+  font-family: 'Roboto Slab', serif;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 700px;
+}
+
+p, ul, ol {
+  color: rgb(51, 51, 50);
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 30px;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+a {
+  color: inherit;
+}
+
+h1, h2 {
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #333332;
+}
+
+h1 {
+  font-size: 33px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+blockquote {
+  margin: 0;
+  display: block;
+  line-height: 1.5;
+  color: #333332;
+  font-style: italic;
+  border-left: 3px solid #57ad68;
+  padding-left: 20px;
+  margin-left: -26px;
+  margin-bottom: 30px;
+}
+
+code {
+  font-family: 'Roboto Slab', serif;
+}
+
+#wrapper pre {
+  font-family: Monaco,'Courier New','Courier',monospace;
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+hr {
+  width: 14%;
+  margin: 50px auto 40px auto;
+  border: 0;
+  border-top: 1px solid #dededc;
+}
