@@ -2,7 +2,7 @@
 
 [Marked][marked] theme based on [Medium][medium].
 
-![medium](mediun.png)
+![medium](medium.png)
 
 [marked]: http://marked2app.com
 [medium]: https://medium.com
