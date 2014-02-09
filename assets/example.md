@@ -24,7 +24,7 @@ end
 Playing cards, however, *do* have an orientation. We can flip any of the three
 cards and we'll end up with a *different* position.
 
-![](cards.png)
+![A set of three playing cards.](cards.png)
 
 There are over 43 quintillion legal positions of the Rubik's Cube.
 
