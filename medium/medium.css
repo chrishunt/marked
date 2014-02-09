@@ -79,6 +79,17 @@ img {
 figure {
   margin: 0;
   margin-bottom: 30px;
+  position: relative;
+}
+
+figcaption {
+  position: relative;
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+  color: #666665;
+  font-style: italic;
+  font-size: 14px;
 }
 
 hr {
