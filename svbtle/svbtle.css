@@ -12,9 +12,13 @@ body {
   min-width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6, p, ol, ul, table, blockquote, figure, code {
+h1, h2, h3, h4, h5, h6, p, ol, ul, dl, table, blockquote, figure, code {
   margin: 0 auto;
   width: 550px;
+}
+
+figcaption {
+  display: none;
 }
 
 p, h1, h2 {
