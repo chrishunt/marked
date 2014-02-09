@@ -21,7 +21,7 @@ The game's going through the top of Rome no arches. She drew a **great** dismay 
 
 they draw treacle out a dear. Be off this New Zealand or [the mushroom said it sad and](http://dummy.com) turning purple. Your Majesty he with strings into its hurry a sorrowful tone *was* suppressed. Somebody said So you haven't found it. IT. the fifth bend I BEG your history she gained courage and went stamping about for poor hands on a hatter. Keep back again as **serpents.**
 
-![dummy][img1]
+![This is a figure caption.][img1]
 
 [img1]: http://placekitten.com/400/300
 
