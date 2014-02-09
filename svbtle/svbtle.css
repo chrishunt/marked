@@ -17,6 +17,10 @@ h1, h2, h3, h4, h5, h6, p, ol, ul, dl, table, blockquote, figure, code {
   width: 550px;
 }
 
+figcaption {
+  display: none;
+}
+
 p, h1, h2 {
   padding-left: 10px;
   padding-right: 10px;
