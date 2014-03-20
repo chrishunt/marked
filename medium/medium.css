@@ -11,6 +11,7 @@ body {
   padding-top: 50px;
   padding-bottom: 50px;
   width: 700px;
+  margin: 0 auto;
 }
 
 p, ul, ol {
